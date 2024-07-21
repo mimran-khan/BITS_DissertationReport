@@ -19,43 +19,37 @@ Some formats were already provided for the preparation of the abstract (outline)
 
 ## Checklist of items for the Final report
 
-- Is the Cover page in proper format? Y / N
-- Is the Title page in proper format? Y / N
-- Is the Certificate from the Supervisor in proper format? Has it been signed? Y / N
-- Is Abstract included in the Report? Is it properly written? Y / N
-- Does the Table of Contents page include chapter page numbers? Y / N
-- Does the Report contain a summary of the literature survey? Y / N
-- Are the Pages numbered properly? Y / N
-- Are the Figures numbered properly? Y / N
-- Are the Tables numbered properly? Y / N
-- Are the Captions for the Figures and Tables proper? Y / N
-- Are the Appendices numbered? Y / N
-- Does the Report have Conclusion / Recommendations of the work? Y / N
-- Are References/Bibliography given in the Report? Y / N
-- Have the References been cited in the Report? Y / N
-- Is the citation of References / Bibliography in proper format? Y / N
+| Item                                                                 | Y / N |
+|----------------------------------------------------------------------|-------|
+| Is the Cover page in proper format?                                  |       |
+| Is the Title page in proper format?                                  |       |
+| Is the Certificate from the Supervisor in proper format?             |       |
+| Has it been signed?                                                  |       |
+| Is Abstract included in the Report? Is it properly written?          |       |
+| Does the Table of Contents page include chapter page numbers?        |       |
+| Does the Report contain a summary of the literature survey?          |       |
+| Are the Pages numbered properly?                                     |       |
+| Are the Figures numbered properly?                                   |       |
+| Are the Tables numbered properly?                                    |       |
+| Are the Captions for the Figures and Tables proper?                  |       |
+| Are the Appendices numbered?                                         |       |
+| Does the Report have Conclusion / Recommendations of the work?       |       |
+| Are References/Bibliography given in the Report?                     |       |
+| Have the References been cited in the Report?                        |       |
+| Is the citation of References / Bibliography in proper format?       |       |
 
 **Note:** A copy of this checklist should be included as the last page of the Final report. This checklist duly completed and signed by the student should also be verified and signed by the supervisor. Supervisors are requested to ensure that the students have prepared their reports properly.
 
 ### Illustrative examples of citation of bibliography / references:
 
-1. **Book:**  
-   A. Gelb Applied Optimal Estimation. Cambridge M.A.; M.I.T. Press 1974.
-
-2. **A paper in a Conference or Symposium Proceedings edited and published by a book publishing company:**  
-   R.E. Kalman ‘New Methods in Wiener Filtering Theory’ in Proc. First Symposium on Engineering Applications of Random Function Theory and Probability’ J.L. Bogdanoff and F. Kozin Editors. New York; Wiley 1963 pp 270-388.
-
-3. **A Journal Paper:**  
-   R.E. Kalman and N.S. Pucy ‘New results in linear filtering and prediction theory’ Trans. ASME J. Basic Eng. Vol. 83-D pp. 95-108 Mar. 1961.
-
-4. **A Conference Paper:**  
-   M. Vidyasagar and N.K. Bose ‘Input-output stability of linear systems defined over measure spaces’ in Proc. Midwest Symp. Ciro. Syst. Montreal P.O. Canada Aug. 1975 pp 394-397.
-
-5. **A Ph.D. thesis or Dissertation:**  
-   A.C.G. Viera ‘Matrix orthogonal polynomials with applications to autoregressive modeling and ladder forms’ Ph.D. Dissertation Stanford Univ. Stanford CA Dec. 1977.
-
-6. **A Private Communication:**  
-   W.M. Wonham (1982) Private Communication.
+| Reference Type                                                                      | Example                                                                                     |
+|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **Book**                                                                            | A. Gelb Applied Optimal Estimation. Cambridge M.A.; M.I.T. Press 1974.                      |
+| **A paper in a Conference or Symposium Proceedings edited and published by a book publishing company** | R.E. Kalman ‘New Methods in Wiener Filtering Theory’ in Proc. First Symposium on Engineering Applications of Random Function Theory and Probability’ J.L. Bogdanoff and F. Kozin Editors. New York; Wiley 1963 pp 270-388. |
+| **A Journal Paper**                                                                 | R.E. Kalman and N.S. Pucy ‘New results in linear filtering and prediction theory’ Trans. ASME J. Basic Eng. Vol. 83-D pp. 95-108 Mar. 1961. |
+| **A Conference Paper**                                                              | M. Vidyasagar and N.K. Bose ‘Input-output stability of linear systems defined over measure spaces’ in Proc. Midwest Symp. Ciro. Syst. Montreal P.O. Canada Aug. 1975 pp 394-397. |
+| **A Ph.D. thesis or Dissertation**                                                  | A.C.G. Viera ‘Matrix orthogonal polynomials with applications to autoregressive modeling and ladder forms’ Ph.D. Dissertation Stanford Univ. Stanford CA Dec. 1977. |
+| **A Private Communication**                                                         | W.M. Wonham (1982) Private Communication.                                                  |
 
 ---
 
@@ -67,17 +61,14 @@ Some formats were already provided for the preparation of the abstract (outline)
 
 (EC-2 Mid-Semester Progress Evaluation Sheet)
 
-**Scheduled Month:**
-
-**NAME OF THE STUDENT:**
-
-**ID NO.:**
-
-**Email Address:**
-
-**NAME OF SUPERVISOR:**
-
-**PROJECT TITLE:**
+| Field             | Details        |
+|-------------------|----------------|
+| Scheduled Month:  |                |
+| NAME OF THE STUDENT: |             |
+| ID NO.:           |                |
+| Email Address:    |                |
+| NAME OF SUPERVISOR: |              |
+| PROJECT TITLE:    |                |
 
 ### EVALUATION DETAILS
 
@@ -92,11 +83,13 @@ Some formats were already provided for the preparation of the abstract (outline)
 
 **Organizational Mentor**
 
-- **Name:**
-- **Qualification:**
-- **Designation & Address:**
-- **Email Address:**
-- **Signature:**
-- **Date:**
+| Field           | Details          |
+|-----------------|------------------|
+| Name            |                  |
+| Qualification   |                  |
+| Designation & Address |           |
+| Email Address   |                  |
+| Signature       |                  |
+| Date            |                  |
 
 **Note:** The completed evaluation form and the self-plagiarism checked mid-semester report to be uploaded in the viva portal on or before the mid-semester submission deadline.
